@@ -1,0 +1,1 @@
+import{x as s,B as e,C as a,J as o,y as n,K as c,z as _,T as r,S as i,L as l}from"./Cgy-dred.js";const p={class:"container"},d={class:"content-wrapper"},h={__name:"index",setup(m){return(u,x)=>{const t=o;return n(),s("div",p,[e(c),e(t,null,{default:a(()=>[e(r),_("div",d,[e(i),e(l)])]),_:1})])}}};export{h as default};
